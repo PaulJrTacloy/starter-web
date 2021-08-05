@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Paul Tacloy		paultacloy.jr@gmail.com		@paultacloyjr
 
 # THANKS
 
